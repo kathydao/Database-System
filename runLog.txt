@@ -1,0 +1,51 @@
+| Student Information |
+Student Name: Margaery Tyrell
+Student ID: 2
+Student Level: Senior
+Student Major: Data Science
+Student GPA: 3.75
+Student's Faculty Advisor ID: 1
+________________________________
+
+| Student Information |
+Student Name: Jon Snow 
+Student ID: 3
+Student Level: Freshman
+Student Major: Computer Science
+Student GPA: 2
+Student's Faculty Advisor ID: 2
+________________________________
+
+| Student Information |
+Student Name: Robert Arryn
+Student ID: 4
+Student Level: Sophomore
+Student Major: Electrical Engineering
+Student GPA: 3.5
+Student's Faculty Advisor ID: 2
+________________________________
+
+| Faculty Information |
+Faculty Name: 8
+Faculty ID: -1
+Faculty Level: 1
+Faculty Department: 2
+Faculty's Advisees Id's: 
+________________________________
+
+| Faculty Information |
+Faculty Name: Eddard Stark
+Faculty ID: 1
+Faculty Level: Senior Associate Dean
+Faculty Department: Fowler School of Engineering
+Faculty's Advisees Id's: 
+________________________________
+
+| Faculty Information |
+Faculty Name: Daenerys Targaryen
+Faculty ID: 2
+Faculty Level: Program Director for the Faculty of Engineering
+Faculty Department: Fowler School Of Engineering
+Faculty's Advisees Id's: 
+________________________________
+
